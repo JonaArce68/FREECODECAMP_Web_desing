@@ -1,0 +1,19 @@
+{
+  "name": "tribute_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonaArce68/FREECODECAMP_Web_desing.git"
+  },
+  "author": "Jonatan Arce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonaArce68/FREECODECAMP_Web_desing/issues"
+  },
+  "homepage": "https://github.com/JonaArce68/FREECODECAMP_Web_desing#readme"
+}
